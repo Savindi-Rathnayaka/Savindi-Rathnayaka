@@ -30,25 +30,17 @@
 ---
 
 )
-<h2 align="center">🌈 Tech Stack 🌈</h2>
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql,git,github,vscode,jupyter&perline=8" />
 
 <br><br>
 
-### 📊 Data Science & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-
-<br><br>
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 </div>
 
