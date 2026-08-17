@@ -54,16 +54,61 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 
-🔹 **Online Gaming Addiction Prediction**  
-Machine Learning project for predicting gaming addiction levels.
+<div align="center">
 
-🔹 **Student Performance Prediction**  
-A regression model for predicting students' final exam scores.
+<table>
+<tr>
 
-🔹 **RAG-Based Question Answering System**  
-A Retrieval-Augmented Generation system for question answering.
+<td width="50%" align="center">
+
+### 🎮 Online Gaming Addiction Prediction
+
+Machine Learning project that predicts gaming addiction levels using player behavior and engagement data.
+
+**Python • Pandas • Scikit-learn**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎓 Student Performance Prediction
+
+Machine Learning regression project that predicts students' final exam scores using academic data.
+
+**Python • Pandas • Scikit-learn**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🤖 RAG Question Answering System
+
+Retrieval-Augmented Generation system designed to answer questions using relevant information from a knowledge base.
+
+**Python • RAG • LLM**
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Web Application Projects
+
+Web application projects developed while learning modern web development technologies.
+
+**HTML • CSS • Java • Spring Boot**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
