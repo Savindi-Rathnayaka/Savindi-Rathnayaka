@@ -121,20 +121,6 @@ Web application projects developed while learning modern web development technol
 - 🗄️ Database Management
 
 ---
-
-<div align="center">
-
-### ✨ Turning data into meaningful insights ✨
-
-</div>
-<!--<h2 align="center">💻 Coding Time 💻</h2>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-
-</div>
----
 <h2 align="center">📫 Connect With Me 📫</h2>
 
 <div align="center">
@@ -148,6 +134,20 @@ Web application projects developed while learning modern web development technol
 </a>
 
 </div>
+<div align="center">
+
+### ✨ Turning data into meaningful insights ✨
+
+</div>
+<!--<h2 align="center">💻 Coding Time 💻</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
+---
+
 
 
 </div>
