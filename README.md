@@ -135,30 +135,20 @@ Web application projects developed while learning modern web development technol
 
 </div>
 ---
-
 <h2 align="center">📫 Connect With Me 📫</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Savindi-Rathnayaka">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="mailto:rathnayakasavindi6@gmail.com">
-<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Savindi-Rathnayaka">
-<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-✨ <b>Thanks for visiting my profile!</b> ✨
 
 </div>
 
