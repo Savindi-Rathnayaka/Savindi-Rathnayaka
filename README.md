@@ -8,16 +8,24 @@
 
 
 ---
+<h2 align="center">💜 About Me 💜</h2>
 
-## 🌸 About Me
+<div align="center">
 
-🎓 I'm an undergraduate studying **Data Science**.
+🎓 <b>Data Science Undergraduate</b>
 
-💡 I'm interested in **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**.
+💡 Passionate about <b>Data Science, Machine Learning & AI</b>
 
-🌱 I'm continuously learning new technologies and building projects to improve my skills.
+📊 Interested in <b>Data Analytics & Data Visualization</b>
 
-✨ I enjoy turning data into meaningful insights and solving real-world problems with technology.
+🌱 Always learning and exploring new technologies
+
+🚀 Building projects to solve real-world problems
+
+✨ Turning data into meaningful insights
+
+</div>
+
 
 ---
 
