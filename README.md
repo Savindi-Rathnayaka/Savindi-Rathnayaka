@@ -121,6 +121,13 @@ Web application projects developed while learning modern web development technol
 - 🗄️ Database Management
 
 ---
+<h2 align="center">💻 Coding Time 💻</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
 <h2 align="center">📫 Connect With Me 📫</h2>
 
 <div align="center">
