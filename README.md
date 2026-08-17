@@ -120,6 +120,13 @@ Web application projects developed while learning modern web development technol
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi-Rathnayaka&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Savindi-Rathnayaka&theme=radical&hide_border=true" />
+
+</div>
 ## 🌱 Currently Learning
 
 - 🤖 Machine Learning
