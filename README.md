@@ -29,20 +29,28 @@
 
 ---
 
-## 💻 Tech Stack
+)
+<h2 align="center">🌈 Tech Stack 🌈</h2>
 
-### Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Programming Languages
 
-### Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql" />
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<br><br>
+
+### 📊 Data Science & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+
+<br><br>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+
+</div>
 
 ---
 
