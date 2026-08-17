@@ -112,7 +112,7 @@ Web application projects developed while learning modern web development technol
 <img src="https://streak-stats.demolab.com?user=Savindi-Rathnayaka&theme=radical&hide_border=true" />
 
 </div>
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 
 - 🤖 Machine Learning
 - 📊 Data Analytics
