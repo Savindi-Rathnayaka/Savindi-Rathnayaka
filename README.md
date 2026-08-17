@@ -111,13 +111,6 @@ Web application projects developed while learning modern web development technol
 </div>
 
 ---
-<h2 align="center">📊 GitHub Analytics 📊</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Savindi-Rathnayaka&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi-Rathnayaka&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 <h2 align="center">🔥 GitHub Streak 🔥</h2>
@@ -153,3 +146,10 @@ Web application projects developed while learning modern web development technol
 
 
 -->
+<h2 align="center">💻 Coding Time 💻</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
