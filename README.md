@@ -29,7 +29,7 @@
 
 ---
 
-)
+
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
 <div align="center">
@@ -138,10 +138,30 @@ Web application projects developed while learning modern web development technol
 
 
 -->
-<h2 align="center">💻 Coding Time 💻</h2>
+---
+
+<h2 align="center">📫 Connect With Me 📫</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="500">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ <b>Thanks for visiting my profile!</b> ✨
 
 </div>
