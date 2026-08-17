@@ -134,10 +134,6 @@ Web application projects developed while learning modern web development technol
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 </div>
-**Savindi-Rathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 ---
 
 <h2 align="center">📫 Connect With Me 📫</h2>
@@ -148,13 +144,30 @@ Web application projects developed while learning modern web development technol
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rathnayakasavindi6@gmail.com">
 <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Savindi-Rathnayaka">
 <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ <b>Thanks for visiting my profile!</b> ✨
+
+</div>
+
+**Savindi-Rathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+-->
+---
+
 
 </div>
 
