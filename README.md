@@ -142,7 +142,13 @@ Web application projects developed while learning modern web development technol
 ### ✨ Turning data into meaningful insights ✨
 
 </div>
-<!--
+<!--<h2 align="center">💻 Coding Time 💻</h2>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
 **Savindi-Rathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
