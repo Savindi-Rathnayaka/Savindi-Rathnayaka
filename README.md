@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=C084FC&center=true&vCenter=true&width=800&lines=SAVINDI+UMASHA" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=4&section=header&width=500" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SAVINDI%20UMASHA&fontSize=50&fontColor=C084FC&fontAlignY=55&desc=Data%20Science%20Undergraduate&descAlignY=85&descSize=17&descColor=F0ABFC" />
 
 </div>
 
