@@ -2,9 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=100000&color=F472B6&center=true&vCenter=true&width=650&lines=%F0%9F%92%9CSAVINDI+UMASHA%F0%9F%A9%B7" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=C084FC&center=true&vCenter=true&width=800&lines=SAVINDI+UMASHA" />
 
-</div> 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14&height=4&section=header&width=500" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Python+%7C+R+%7C+SQL;Always+Learning+%F0%9F%9A%80" />
 
