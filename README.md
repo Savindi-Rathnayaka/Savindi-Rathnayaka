@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>👋 SAVINDI UMASHA </h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=100000&color=F472B6&center=true&vCenter=true&width=650&lines=%F0%9F%92%9CSAVINDI+UMASHA%F0%9F%A9%B7" />
+
+</div> 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Python+%7C+R+%7C+SQL;Always+Learning+%F0%9F%9A%80" />
 
