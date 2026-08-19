@@ -1,6 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=180&section=header&text=SAVINDI%20UMASHA&fontSize=55&fontColor=FFFFFF&fontAlignY=48&stroke=E879F9&strokeWidth=2&animation=twinkling&desc=DATA%20SCIENCE%20UNDERGRADUATE&descSize=18&descAlignY=72&descColor=E9D5FF" width="100%"/>
+<svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="35%" stop-color="#8B5CF6"/>
+      <stop offset="70%" stop-color="#C084FC"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text
+    x="500"
+    y="90"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+    fill="url(#nameGradient)"
+    filter="url(#glow)">
+    SAVINDI UMASHA
+  </text>
+
+  <line
+    x1="250"
+    y1="115"
+    x2="750"
+    y2="115"
+    stroke="url(#nameGradient)"
+    stroke-width="4"
+    stroke-linecap="round"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="500"
+    y="150"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="17"
+    letter-spacing="4"
+    fill="#E9D5FF">
+    DATA SCIENCE UNDERGRADUATE
+  </text>
+</svg>
+
+</div>
 
 </div>
 
