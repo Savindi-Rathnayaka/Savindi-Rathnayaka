@@ -1,57 +1,9 @@
 <div align="center">
 
-<svg width="100%" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="35%" stop-color="#8B5CF6"/>
-      <stop offset="70%" stop-color="#C084FC"/>
-      <stop offset="100%" stop-color="#F472B6"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <text
-    x="500"
-    y="90"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="58"
-    font-weight="700"
-    fill="url(#nameGradient)"
-    filter="url(#glow)">
-    SAVINDI UMASHA
-  </text>
-
-  <line
-    x1="250"
-    y1="115"
-    x2="750"
-    y2="115"
-    stroke="url(#nameGradient)"
-    stroke-width="4"
-    stroke-linecap="round"
-    filter="url(#glow)"
-  />
-
-  <text
-    x="500"
-    y="150"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="17"
-    letter-spacing="4"
-    fill="#E9D5FF">
-    DATA SCIENCE UNDERGRADUATE
-  </text>
-</svg>
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=A855F7&center=false&vCenter=true&width=230&lines=SAVINDI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=F472B6&center=false&vCenter=true&width=240&lines=UMASHA" />
+</h1>
 
 </div>
 
