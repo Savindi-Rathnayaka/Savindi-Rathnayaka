@@ -109,13 +109,13 @@ Web application projects developed while learning modern web development technol
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&langs_count=5" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi-Rathnayaka&layout=donut&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&langs_count=5" width="100%"/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=38BDF8&text_color=E9D5FF&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Savindi-Rathnayaka&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=38BDF8&text_color=E9D5FF&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 
