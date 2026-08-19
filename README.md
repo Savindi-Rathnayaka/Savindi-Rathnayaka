@@ -100,19 +100,27 @@ Web application projects developed while learning modern web development technol
 
 ---
 
-<h2 align="center">📊 My GitHub Analytics </h2>
+<h2 align="center">💜🩷 GitHub Analytics 🩷💜</h2>
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savindi-Rathnayaka&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"
-  width="45%"
-/>
+<table>
+<tr>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Savindi-Rathnayaka&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F472B6&icon_color=38BDF8&text_color=E9D5FF&include_all_commits=true"
-  width="53%"
-/>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&langs_count=5" width="100%"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=38BDF8&text_color=E9D5FF&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
  🌱 Currently Learning
