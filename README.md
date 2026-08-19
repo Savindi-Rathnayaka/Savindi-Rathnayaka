@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=A855F7&center=false&vCenter=true&width=230&lines=SAVINDI" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1&pause=100000&color=F472B6&center=false&vCenter=true&width=240&lines=UMASHA" />
-</h1>
+<img src="./savindi-name.svg" width="100%" alt="Savindi Umasha">
 
 </div>
-
 ---
 <h2 align="center"> About Me 💜</h2>
 
