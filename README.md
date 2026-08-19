@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./savindi-name.svg" width="100%" alt="Savindi Umasha">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=180&section=header&text=SAVINDI%20UMASHA&fontSize=55&fontColor=FFFFFF&fontAlignY=48&stroke=E879F9&strokeWidth=2&animation=twinkling&desc=DATA%20SCIENCE%20UNDERGRADUATE&descSize=18&descAlignY=72&descColor=E9D5FF" width="100%"/>
 
 </div>
 ---
