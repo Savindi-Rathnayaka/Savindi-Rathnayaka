@@ -1,19 +1,8 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SAVINDI%20UMASHA&fontSize=50&fontColor=C084FC&fontAlignY=55&desc=Data%20Science%20Undergraduate&descAlignY=85&descSize=17&descColor=F0ABFC" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=180&section=header&text=SAVINDI%20UMASHA&fontSize=55&fontColor=FFFFFF&fontAlignY=48&stroke=E879F9&strokeWidth=2&animation=twinkling&desc=DATA%20SCIENCE%20UNDERGRADUATE&descSize=18&descAlignY=72&descColor=E9D5FF" width="100%"/>
 
 </div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Python+%7C+R+%7C+SQL;Always+Learning+%F0%9F%9A%80" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Data+Science+%E2%80%A2+Machine+Learning;Artificial+Intelligence+%E2%80%A2+Data+Analytics" />
-
-</div>
-
 
 ---
 <h2 align="center"> About Me 💜</h2>
